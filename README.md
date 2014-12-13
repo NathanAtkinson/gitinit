@@ -33,13 +33,13 @@ There’s tons more to learn but through the boot camp I’ve proven I can learn
 • OOP    
 • Eclipse (ADT Plug-in)      
 • SASS    
-• NPM
-• Gulp     
-• Database Normalization
-• Bower    
-• Jekyll
-• Responsive (Mobile) Design 
-• Ruby
+• NPM   
+• Gulp        
+• Database Normalization   
+• Bower       
+• Jekyll   
+• Responsive (Mobile) Design    
+• Ruby   
 • MVC        
         
 
@@ -52,7 +52,7 @@ There’s tons more to learn but through the boot camp I’ve proven I can learn
 - [x] Technologies used: HTML, CSS, JavaScript (jQuery/AJAX), Handlebars, LAMP Stack
 - [x] github.com/NathanAtkinson/indiv-project
 
-#Group Project (Team Lead of four members, one week)
+##Group Project (Team Lead of four members, one week)
 - [x] Built a “bragging” social platform.  Daily stand-ups and GitHub were used for management of the project
 - [x] Utilized an MVC, third-party AJAX packages, sessions and login, user creation, full CRU0D (creation, retrieval, update, delete), XSS protection, input validation, designed UX/UI, Agile
 - [x] Technologies used:  HTML, CSS, JavaScript, Handlebars, LAMP Stack
@@ -84,15 +84,19 @@ There’s tons more to learn but through the boot camp I’ve proven I can learn
 
 
 #Experience
-##Osselaer Professional Property Management - Phoenix, Arizona Dec 2013 - Sept 2014
-HOA Community Manager        
+##Osselaer Professional Property Management
+Phoenix, Arizona 
+Dec 2013 - Sept 2014
+- HOA Community Manager        
 - [x] Managed over 750 homes in 14 communities 
 - [x] Responsible for organizing 70 Board meetings a year, inclusive of Annual meetings
 - [x] Led budgeting process for most communities, totaling over $1M a year
 - [x] Helped transition communities to new managers and quickly built relationships leading to retention of all assigned communities
 - [x] Aided Boards with budget management along with legal and compliance issues
 
-##Volunteer/Travel - AZ, CA, HI, IN, MI, TX, USVI, WA   June 2009 – Oct 2013
+##Volunteer/Travel
+AZ, CA, HI, IN, MI, TX, USVI, WA
+June 2009 – Oct 2013
 - [x] Due to spouse’s work, coordinated moves every 3-6 months during this period
 - [x] Managed finances to support a unique lifestyle and frequent travel
 - [x] Worked with a variety of non-profits such as:
@@ -102,21 +106,30 @@ HOA Community Manager
   - Film festivals (educational outreach, theater ops, hospitality/transportation)
   - Gaming conventions (setup, crowd control, audits, events, tear down)
 
-##BOSS Reporters - Merrillville, Indiana      Aug 2008 - Apr 2009
+##BOSS Reporters
+Merrillville, Indiana      
+Aug 2008 - Apr 2009
  - Office Administrator 
        
-##Critical Signal Technologies - Farmington Hills, Michigan   Aug 2007 - Jan 2008
+##Critical Signal Technologies 
+Farmington Hills, Michigan   
+Aug 2007 - Jan 2008
  - Installation Specialist 
        
-##General Electric Plastics - Mount Vernon, Indiana
+##General Electric Plastics 
+Mount Vernon, Indiana
 - Infrastructure War Room Co-op        Dec 2006 - May 2007
 - Physical Inventory Co-op         Aug 2006 - Dec 2006
 - Production War Room Co-op        May 2006 - Aug 2006
 
-##Economics and Finance Department at USI - Evansville, Indiana Jan 2004 - Dec 2006
+##Economics and Finance Department at USI 
+Evansville, Indiana 
+Jan 2004 - Dec 2006
 - Departmental Aid
 
-##Residence Life Department at USI - Evansville, Indiana   Jan 2004 – May 2006
+##Residence Life Department at USI 
+Evansville, Indiana   
+Jan 2004 – May 2006
 - Resident Assistant
 
 
