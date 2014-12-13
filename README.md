@@ -2,9 +2,9 @@ Nathan Atkinson  / Web Developer (resume.md)
 
 #Contact
 1718 West Colter Street #193   
-Phoenix, Arizona  85015 
-NathanAtkinson2006@gmail.com 
-530-628-3321 
+Phoenix, Arizona  85015   
+NathanAtkinson2006@gmail.com   
+530-628-3321   
 github.com/NathanAtkinson
 
 
@@ -121,7 +121,8 @@ HOA Community Manager
 
 
 #Education
-##RockIT Web Development Boot camp          Anticipated Completion December 2014
+##RockIT Web Development Boot camp          
+Anticipated Completion December 2014
 
 ##University of Southern Indiana, 3.78 GPA
 Bachelor of Science in Finance         Completed December 2006
