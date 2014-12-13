@@ -1,4 +1,4 @@
-Nathan Atkinson  / Web Developer (resume.md)
+##Nathan Atkinson  / Web Developer (resume.md)
 
 #Contact
 1718 West Colter Street #193   
@@ -85,7 +85,7 @@ There’s tons more to learn but through the boot camp I’ve proven I can learn
 
 #Experience
 ##Osselaer Professional Property Management
-Phoenix, Arizona 
+Phoenix, Arizona      
 Dec 2013 - Sept 2014
 - HOA Community Manager        
 - [x] Managed over 750 homes in 14 communities 
@@ -95,7 +95,7 @@ Dec 2013 - Sept 2014
 - [x] Aided Boards with budget management along with legal and compliance issues
 
 ##Volunteer/Travel
-AZ, CA, HI, IN, MI, TX, USVI, WA
+AZ, CA, HI, IN, MI, TX, USVI, WA     
 June 2009 – Oct 2013
 - [x] Due to spouse’s work, coordinated moves every 3-6 months during this period
 - [x] Managed finances to support a unique lifestyle and frequent travel
@@ -112,7 +112,7 @@ Aug 2008 - Apr 2009
  - Office Administrator 
        
 ##Critical Signal Technologies 
-Farmington Hills, Michigan   
+Farmington Hills, Michigan       
 Aug 2007 - Jan 2008
  - Installation Specialist 
        
@@ -123,7 +123,7 @@ Mount Vernon, Indiana
 - Production War Room Co-op        May 2006 - Aug 2006
 
 ##Economics and Finance Department at USI 
-Evansville, Indiana 
+Evansville, Indiana      
 Jan 2004 - Dec 2006
 - Departmental Aid
 
@@ -138,5 +138,5 @@ Jan 2004 – May 2006
 Anticipated Completion December 2014
 
 ##University of Southern Indiana, 3.78 GPA
-Bachelor of Science in Finance         Completed December 2006
+Bachelor of Science in Finance         Completed December 2006     
 Bachelor of Science in Economics         Completed December 2006
