@@ -19,16 +19,16 @@ There’s tons more to learn but through the boot camp I’ve proven I can learn
 
 
 ##Technical Summary
-• LAMP Stack (Linux, Apache, MySQL, PHP5) 
-• HTML5 
-• CSS3 
+• LAMP Stack (Linux, Apache, MySQL, PHP5)
+• HTML5
+• CSS3
 • JavaScript (jQuery, AJAX)
 • Java
 • C
 • Sublime 3
-• Git 
+• Git
 • Virtual Hosting
-• Handlebars    
+• Handlebars
 • Agile
 • OOP
 • Eclipse (ADT Plug-in)  
@@ -51,3 +51,50 @@ There’s tons more to learn but through the boot camp I’ve proven I can learn
 - [x] Used MVC, third-party AJAX package, Gift for version control, sessions and login, input validation, XSS protection, user creation, full CRUD (creation, retrieval, update, delete), API driven 
 - [x] Technologies used: HTML, CSS, JavaScript (jQuery/AJAX), Handlebars, LAMP Stack
 - [x] github.com/NathanAtkinson/indiv-project
+
+#Group Project (Team Lead of four members, one week)
+- [x] Built a “bragging” social platform.  Daily stand-ups and GitHub were used for management of the project
+- [x] Utilized an MVC, third-party AJAX packages, sessions and login, user creation, full CRUD (creation, retrieval, update, delete), XSS protection, input validation, designed UX/UI, Agile
+- [x] Technologies used:  HTML, CSS, JavaScript, Handlebars, LAMP Stack
+- [x] github.com/NathanAtkinson/mustache-adventure
+
+#Hackathon (Two-man team, one day)
+- [x] Rebuilt a non-profit website
+- [x] Complete redesign of the site using responsive design considering the UX, rewrote content, and implemented Pay Pal links for donation pages and event ticket purchase
+- [x] Technologies used:  HTML, CSS, Github
+- [x] github.com/NathanAtkinson/rtf-hackathon
+
+#Variety of Individual projects
+- [x] Six different projects completed over eight weeks.
+- [x] Setup virtual hosts, developing environment, MySQL, and phpMyAdmin.
+- [x] Site designs replicated from mock-ups.
+- [x] Introduction and use of MVC
+- [x] Technologies used:  HTML, CSS, JavaScript (jQuery, AJAX, JSON), Handlebars, LAMP Stack
+
+#Harvard's CS50 - Intro to Programming Class (www.edx.org)
+- [x] Variety of projects 
+- [x] Five problem sets over several months
+- [x] Co-Organizer for Meetup group and helped others in group
+- [x] Project using Caesar Cipher, Vigenere's Cipher
+- [x] “Slider” puzzle game, “Breakout” game
+- [x] Recovery of images from “corrupted” data
+- [x] Resizing of images based on user input
+- [x] Other concepts such as command-line interface, file I/O, loops, branching logic, hashing, developing in a virtual environment, file headers, and sorting algorithm’s (bubble, merge, others)
+- [x] Mostly C used
+
+
+##Experience
+#Osselaer Professional Property Management - Phoenix, Arizona Dec 2013 - Sept 2014
+HOA Community Manager        
+- [x]Managed over 750 homes in 14 communities 
+- [x]Responsible for organizing 70 Board meetings a year, inclusive of Annual meetings
+- [x]Led budgeting process for most communities, totaling over $1M a year
+- [x]Helped transition communities to new managers and quickly built relationships leading to retention of all assigned communities
+- [x]Aided Boards with budget management along with legal and compliance issues
+
+#Volunteer/Travel - AZ, CA, HI, IN, MI, TX, USVI, WA   June 2009 – Oct 2013
+- [x]Due to spouse’s work, coordinated moves every 3-6 months during this period
+- [x]Managed finances to support a unique lifestyle and frequent travel
+- [x]Worked with a variety of non-profits such as:
+- Hospice (patient visitor)
+- Nursing home (visitor/biographer)
